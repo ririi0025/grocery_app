@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/app_drawer.dart';
-import 'package:flutter_app/provider.dart';
+import 'package:flutter_application_1/app_drawer.dart';
+import 'package:flutter_application_1/provider.dart';
 import 'package:provider/provider.dart';
 
 class Cart extends StatefulWidget {
@@ -167,3 +167,4 @@ class _CartState extends State<Cart> {
     );
   }
 }
+
